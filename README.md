@@ -30,7 +30,7 @@ ShareShelf is a community-based item-sharing web application that connects indiv
 
 
 1. **User Registration and Login:** Allow users to create accounts, log in, and manage their profiles.
-2. **Item Listings:** Allow users to list items they are willing to lend, including descriptions, categories, images, and availability.
+2. **Item Listings:** Enable users to offer items for lending by providing details such as descriptions, categories, photos, and availability.
 3. **Item Browsing and Searching:** Allow users to browse available items and search or filter them by name and category.
 4. **Borrowing Requests:** Allow users to request items for specific borrowing periods.
 5. **Request Management:** Allow item owners to accept or reject borrowing requests.
