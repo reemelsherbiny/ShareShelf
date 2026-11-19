@@ -54,7 +54,7 @@ ShareShelf is a community-based item-sharing web application that connects indiv
 | 3 | Request to borrow an item |A borrower selects an available item, reviews its details, chooses a borrowing period and submits a borrowing request.| A confirmation message showing that the request is pending | A new BorrowRequest document linked to the item and borrower |
 | 4 | Manage borrowing requests | An item owner views incoming requests and accepts or rejects a borrowing request | The updated request status, either approved or rejected | The BorrowRequest document with its updated status |
 | 5 | Manage item listings | An item owner selects one of their existing listings, updates its details, or deletes the item they no longer want to share. | The updated item details or a confirmation message that the item was deleted | The updated or deleted Item document |
-| 6 | Confirm item return | An item owner confirms that a borrowed item has been returned | A confirmation message showing that the request is completed and the item is available again | The BorrowRequest status updated to returned and the Item availability updated to true |
+| 6 | Confirm item return |An item owner verifies that a borrowed item has been successfully returned. | A confirmation message showing that the request is completed and the item is available again | The BorrowRequest status updated to returned and the Item availability updated to true |
 
 ## 4. Who owns what
 
